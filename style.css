@@ -1,6 +1,11 @@
-html, body {
+body {
   margin: 0;
   padding: 0;
+  background-color: #FAF3E0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 canvas {
   display: block;
